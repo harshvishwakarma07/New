@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#nav{
+    height: 10vh;
+    width: 100%;
+    background-color: steelblue;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
